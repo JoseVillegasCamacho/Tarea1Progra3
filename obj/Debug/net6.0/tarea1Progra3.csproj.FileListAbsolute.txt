@@ -1,0 +1,15 @@
+D:\c# Code\tarea1Progra3\bin\Debug\net6.0\tarea1Progra3.exe
+D:\c# Code\tarea1Progra3\bin\Debug\net6.0\tarea1Progra3.deps.json
+D:\c# Code\tarea1Progra3\bin\Debug\net6.0\tarea1Progra3.runtimeconfig.json
+D:\c# Code\tarea1Progra3\bin\Debug\net6.0\tarea1Progra3.dll
+D:\c# Code\tarea1Progra3\bin\Debug\net6.0\tarea1Progra3.pdb
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.csproj.AssemblyReference.cache
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.AssemblyInfoInputs.cache
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.AssemblyInfo.cs
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.csproj.CoreCompileInputs.cache
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.dll
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\refint\tarea1Progra3.dll
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.pdb
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\tarea1Progra3.genruntimeconfig.cache
+D:\c# Code\tarea1Progra3\obj\Debug\net6.0\ref\tarea1Progra3.dll
